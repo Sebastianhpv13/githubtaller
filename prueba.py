@@ -8,4 +8,6 @@ for i in range(10):
 
 print("Fin del programa")
 
+print ("Otra línea")
+
 print("Nueva línea añadida en ejemplo")
